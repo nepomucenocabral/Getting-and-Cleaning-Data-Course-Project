@@ -196,100 +196,100 @@ Mean value for subject i in the activity j in the fBodyGyroMag measure.
 Mean value for subject i in the activity j in the fBodyGyroJerkMag measure.      
 
 **tBodyAcc-std()-X**           
-Mean for standard deviation value for subject i in the activity j in the tBodyAcc measure for the X-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyAcc measure for the X-axis.      
 
 **tBodyAcc-std()-Y**           
-Mean for standard deviation value for subject i in the activity j in the tBodyAcc measure for the Y-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyAcc measure for the Y-axis.      
 
 **tBodyAcc-std()-Z**           
-Mean for standard deviation value for subject i in the activity j in the tBodyAcc measure for the Z-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyAcc measure for the Z-axis.      
 
 **tGravityAcc-std()-X**           
-Mean for standard deviation value for subject i in the activity j in the tGravityAcc measure for the X-axis.      
+Mean for standard deviation values for subject i in the activity j in the tGravityAcc measure for the X-axis.      
 
 **tGravityAcc-std()-Y**           
-Mean for standard deviation value for subject i in the activity j in the tGravityAcc measure for the Y-axis.      
+Mean for standard deviation values for subject i in the activity j in the tGravityAcc measure for the Y-axis.      
 
 **tGravityAcc-std()-Z**           
-Mean for standard deviation value for subject i in the activity j in the tGravityAcc measure for the Z-axis.      
+Mean for standard deviation values for subject i in the activity j in the tGravityAcc measure for the Z-axis.      
 
 **tBodyAccJerk-std()-X**           
-Mean for standard deviation value for subject i in the activity j in the tBodyAccJerk measure for the X-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyAccJerk measure for the X-axis.      
 
 **tBodyAccJerk-std()-Y**           
-Mean for standard deviation value for subject i in the activity j in the tBodyAccJerk measure for the Y-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyAccJerk measure for the Y-axis.      
 
 **tBodyAccJerk-std()-Z**           
-Mean for standard deviation value for subject i in the activity j in the tBodyAccJerk measure for the Z-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyAccJerk measure for the Z-axis.      
 
 **tBodyGyro-std()-X**           
-Mean for standard deviation value for subject i in the activity j in the tBodyGyro measure for the X-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyGyro measure for the X-axis.      
 
 **tBodyGyro-std()-Y**           
-Mean for standard deviation value for subject i in the activity j in the tBodyGyro measure for the Y-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyGyro measure for the Y-axis.      
 
 **tBodyGyro-std()-Z**           
-Mean for standard deviation value for subject i in the activity j in the tBodyGyro measure for the Z-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyGyro measure for the Z-axis.      
 
 **tBodyGyroJerk-std()-X**           
-Mean for standard deviation value for subject i in the activity j in the tBodyGyroJerk measure for the X-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyGyroJerk measure for the X-axis.      
 
 **tBodyGyroJerk-std()-Y**           
-Mean for standard deviation value for subject i in the activity j in the tBodyGyroJerk measure for the Y-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyGyroJerk measure for the Y-axis.      
 
 **tBodyGyroJerk-std()-Z**           
-Mean for standard deviation value for subject i in the activity j in the tBodyGyroJerk measure for the Z-axis.      
+Mean for standard deviation values for subject i in the activity j in the tBodyGyroJerk measure for the Z-axis.      
 
 **tBodyAccMag-std()**           
-Mean for standard deviation value for subject i in the activity j in the tBodyAccMag measure.      
+Mean for standard deviation values for subject i in the activity j in the tBodyAccMag measure.      
 
 **tGravityAccMag-std()**           
-Mean for standard deviation value for subject i in the activity j in the tGravityAccMag measure.      
+Mean for standard deviation values for subject i in the activity j in the tGravityAccMag measure.      
 
 **tBodyAccJerkMag-std()**           
-Mean for standard deviation value for subject i in the activity j in the tBodyAccJerkMag measure.      
+Mean for standard deviation values for subject i in the activity j in the tBodyAccJerkMag measure.      
 
 **tBodyGyroMag-std()**           
-Mean for standard deviation value for subject i in the activity j in the tBodyGyroMag measure.      
+Mean for standard deviation values for subject i in the activity j in the tBodyGyroMag measure.      
 
 **tBodyGyroJerkMag-std()**           
-Mean for standard deviation value for subject i in the activity j in the tBodyGyroJerkMag measure.      
+Mean for standard deviation values for subject i in the activity j in the tBodyGyroJerkMag measure.      
 
 **fBodyAcc-std()-X**           
-Mean for standard deviation value for subject i in the activity j in the fBodyAcc measure for the X-axis.      
+Mean for standard deviation values for subject i in the activity j in the fBodyAcc measure for the X-axis.      
 
 **fBodyAcc-std()-Y**           
-Mean for standard deviation value for subject i in the activity j in the fBodyAcc measure for the Y-axis.      
+Mean for standard deviation values for subject i in the activity j in the fBodyAcc measure for the Y-axis.      
 
 **fBodyAcc-std()-Z**           
-Mean for standard deviation value for subject i in the activity j in the fBodyAcc measure for the Z-axis.      
+Mean for standard deviation values for subject i in the activity j in the fBodyAcc measure for the Z-axis.      
 
 **fBodyAccJerk-std()-X**           
-Mean for standard deviation value for subject i in the activity j in the fBodyAccJerk measure for the X-axis.      
+Mean for standard deviation values for subject i in the activity j in the fBodyAccJerk measure for the X-axis.      
 
 **fBodyAccJerk-std()-Y**     
-Mean for standard deviation value for subject i in the activity j in the fBodyAccJerk measure for the Y-axis.      
+Mean for standard deviation values for subject i in the activity j in the fBodyAccJerk measure for the Y-axis.      
 
 **fBodyAccJerk-std()-Z**           
-Mean for standard deviation value for subject i in the activity j in the fBodyAccJerk measure for the Z-axis.      
+Mean for standard deviation values for subject i in the activity j in the fBodyAccJerk measure for the Z-axis.      
 
 **fBodyGyro-std()-X**           
-Mean for standard deviation value for subject i in the activity j in the fBodyGyro measure for the X-axis.      
+Mean for standard deviation values for subject i in the activity j in the fBodyGyro measure for the X-axis.      
 
 **fBodyGyro-std()-Y**        
-Mean for standard deviation value for subject i in the activity j in the fBodyGyro measure for the Y-axis.      
+Mean for standard deviation values for subject i in the activity j in the fBodyGyro measure for the Y-axis.      
 
 **fBodyGyro-std()-Z**           
-Mean for standard deviation value for subject i in the activity j in the fBodyGyro measure for the X-axis.      
+Mean for standard deviation values for subject i in the activity j in the fBodyGyro measure for the X-axis.      
 
 **fBodyAccMag-std()**           
-Mean for standard deviation value for subject i in the activity j in the fBodyAccMag measure.      
+Mean for standard deviation values for subject i in the activity j in the fBodyAccMag measure.      
 
 **fBodyBodyAccJerkMag-std()**           
-Mean for standard deviation value for subject i in the activity j in the fBodyAccJerkMag measure.      
+Mean for standard deviation values for subject i in the activity j in the fBodyAccJerkMag measure.      
 
 **fBodyBodyGyroMag-std()**           
-Mean for standard deviation value for subject i in the activity j in the fBodyGyroMag measure.      
+Mean for standard deviation values for subject i in the activity j in the fBodyGyroMag measure.      
 
 **fBodyBodyGyroJerkMag-std()**           
-Mean for standard deviation value for subject i in the activity j in the fBodyGyroJerkMag measure.      
+Mean for standard deviation values for subject i in the activity j in the fBodyGyroJerkMag measure.      
