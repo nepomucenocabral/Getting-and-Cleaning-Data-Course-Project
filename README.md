@@ -44,5 +44,5 @@ The TXT files mentioned above are:
 1. Each measured variable is in one column
 2. Each different observation of each variable is in a different row
 3. There are no different kinds of variables stored in the same table;
-4. The first row contains human readable variable names for each variable
+4. The first row contains human readable variable names for each variable    return
 (Source: The components of tidy data lecture file, in Coursera Getting and Cleaning Data week 1 lectures)
